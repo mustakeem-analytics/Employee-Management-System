@@ -41,7 +41,7 @@ Employee-Management-System/
 ├── employee_management_system.py
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+
 
 Database
 
